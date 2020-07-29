@@ -1,5 +1,23 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+.CounterDiv{
+   text-align: center;
+   background: skyblue;
+   
+   }
+
+
+
+.CounterDiv div{
+    display: inline-block;
+    font-size: 50px;
+    line-height: 60px;
+    background: skyblue;
+    color: black;
+    padding: 10px;
+
+
+}
 /* 
 
     You can write your own styles here...
